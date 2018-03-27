@@ -1,5 +1,5 @@
-title: Mr.Brown
-description: Mr.Brown is a responsive jekyll theme
+title: Magnolia
+description: respostería magnolia
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 baseurl: "/mr-brown" # the subpath of your site, e.g. /blog
